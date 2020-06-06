@@ -1,0 +1,306 @@
+/*
+.navbar{
+    padding: 29px 31px 34px 22px;
+    
+}
+.font-nav{
+    font-family: fantasy;
+}
+
+*/
+.navbar {
+    
+    margin-bottom: 0px !important;
+ 
+     ;}
+/*har page k side m jo price ka arha h*/
+.price-list{
+    width: 65px;
+    margin: 3px 16px 1px 2px;
+
+}
+.flash-sale
+{
+  background-color:white !important;
+  border: 2px solid white;
+ /* padding: 14px 51px 18px 38px;*/
+  
+}
+
+
+.flex-class{
+    display: flex !important;
+}
+.divider-text {
+    position: relative;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.divider-text span {
+    padding: 7px;
+    font-size: 20px !important;
+    position: relative;   
+    z-index: 2;
+}
+
+.sigin {
+    
+        padding: 47px 442px 12px 477px !important;
+    
+    }
+.divider-text:after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+    top: 55%;
+    left: 0;
+    z-index: 1;
+}
+
+.btn-facebook {
+    background-color: #405D9D;
+    color: #fff;
+}
+.btn-twitter {
+    background-color: #42AEEC;
+    color: #fff;
+}
+
+a{
+    display: inline;
+    text-decoration: none;
+}
+.c30Om7{
+    display: inline-block;
+}
+/*Class for anadar ki esp classes jse smaarrtphones wagera k lye*/
+.Card-product{
+    width: 24rem;
+    height: 41rem;
+    margin: 1px 15px 26px 1px;
+}
+.orange{
+    color:orange
+}
+body{
+    background-color:#f5f5f5 !important;
+}
+.t24-nav__link{
+    background-color: transparent !important;
+    opacity: 5;
+    font-weight: 700;
+    font-size: 12px;
+    
+}
+ul {
+    list-style-type: none;
+}
+
+
+.productView-options .form-field {
+    font-size: 0;
+    margin-bottom: 2rem;
+    float: left;
+    margin-right: 42px;
+}
+.form-field {
+    display: block;
+    margin: 0 0 2rem;
+    max-width: none;
+}
+.center{
+    width: 150px;
+      margin: 40px auto;
+      
+    }
+
+    * {
+        box-sizing: border-box;
+      }
+      
+      .zoom {
+       
+        padding: 75px 81px 32px 59px !important;
+        margin: 46px 36px 29px 92px;
+        transition: transform .2s;
+        width: 60%;
+        height: 60%;
+      
+      }
+      
+      .zoom:hover {
+        -ms-transform: scale(1.5); /* IE 9 */
+        -webkit-transform: scale(1.5); /* Safari 3-8 */
+        transform: scale(1.5); 
+      }
+        
+/*Zoom Image classes*/
+
+.stretch-card>.card {
+    width: 100%;
+    min-width: 100%
+}
+
+body {
+    background-color: #f9f9fa
+}
+input[type=radio], input[type=checkbox] {
+    margin: 9px 6px 5px;
+    margin-top: 1px \9;
+    line-height: initial;
+}
+.flex {
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto
+}
+
+@media (max-width:991.98px) {
+    .padding {
+        padding: 1.5rem
+    }
+}
+
+@media (max-width:767.98px) {
+    .padding {
+        padding: 1rem
+    }
+}
+
+.padding {
+    padding: 3rem
+}
+
+.card .card-title {
+    color: #000000;
+    margin-bottom: 0.625rem;
+    text-transform: capitalize;
+    font-size: 0.875rem;
+    font-weight: 500
+}
+
+.card .card-description {
+    margin-bottom: .875rem;
+    font-weight: 400;
+    color: #76838f
+}
+
+.mainimage {
+    width: 100% !important
+}
+
+
+/*Zoom Image Classes End*/
+.header{
+    background-color: white !important ;
+    overflow: hidden;
+    border-bottom: #d5d5d5 1px solid;
+    height: 60px;
+    line-height: 60px;
+    margin-bottom: 10px;
+   
+}
+.header-text{
+    font-weight:100;
+    color:orange;
+}
+.btn-primary1 {
+    color: #d85b02 !important;
+    background-color: #eeeff500 !important;
+    border-color: #e86f41 !important;
+}
+.btn{
+    border-radius: 0px;
+}
+.btn-primary2{
+    color: blue !important;
+    font-weight: bold;
+    background-color: #eeeff500 !important;
+    border-color: white !important;
+
+}
+
+
+
+a{    
+    text-decoration: none; 
+  
+}
+a:hover{    
+    text-decoration: none; 
+  
+}
+
+
+.img-thumbnail {
+    padding: .25rem !important;
+    background-color: #fff !important;
+    border: 1px solid #dee2e6 !important;
+    border-radius: .25rem !important;
+    max-width: 100% !important;
+
+    /* max-height: 47% !important; */
+    
+    height: auto !important;
+  
+    max-height: 191px;
+}
+.flash-sale-price{
+    font-weight: 300;
+    color: orange;
+        max-height: 191px;
+}
+
+.col{
+    position: relative;
+    min-height: 1px;
+    padding-right: 21px;
+    padding-left: 0px !important;
+}
+
+.cardC{
+    height: 98%;
+    width: 27rem;
+    box-shadow: 2px 0px 5px 0px lightgrey;
+
+}
+.cardC-img{
+    height: 220px !important;
+    width: 304px !important;
+}
+
+.Categories-images{
+    height: 15rem;
+    width: 14rem;
+    box-shadow: 3px 5px 11px -1px lightgrey;
+    padding: 0px 0px 0px 0px;
+}
+.checked {
+    color: orange;
+  }
+
+.btn-load{
+    text-align: center;
+    background-color: #f5f5f5;
+    color: blue;
+    border: blue;
+    border-radius: 0px blue;
+    border-color: blue !important;
+    margin: 15px 14px 2px 2px;
+    padding: 12px 118px 12px 118px;
+    
+}
+
+
+.footer-first {
+    background: #2e2e54;
+    padding: 22px 0 30px;
+    margin-top: 42px;
+    color: #fff;}
+
+.footer-apps-images{
+    width: 200px;
+    height: auto;
+}
